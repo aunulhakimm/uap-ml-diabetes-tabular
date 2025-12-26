@@ -1,4 +1,7 @@
 # UAP Machine Learning  
+
+## 🌐 Demo Online
+[Akses aplikasi Streamlit di sini](https://uap-ml-diabetes-tabular.streamlit.app/)
 ## Sistem Prediksi Penyakit Diabetes Berbasis Data Tabular
 
 Proyek ini merupakan tugas **Ujian Akhir Praktikum (UAP)** mata kuliah Machine Learning.

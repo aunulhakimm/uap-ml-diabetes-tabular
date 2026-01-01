@@ -42,7 +42,7 @@ dan membandingkan performa beberapa model Machine Learning.
 - Accuracy: 0.75  
 - Recall kelas diabetes: 0.57
 
-### Dataset Utama (Health Indicators)
+### Dataset Utama (Health Indicators!)
 
 | Model | Akurasi | Precision (Diabetes) | Recall (Diabetes) | F1-Score (Diabetes) | Analisis |
 |------|--------|----------------------|-------------------|---------------------|---------|
